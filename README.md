@@ -6,14 +6,21 @@ A production-ready **Spring Boot backend** that integrates with AI APIs (OpenRou
 
 ## 🚀 Features
 
-- 🔹 AI Chat API using OpenRouter (GPT models)
-- 🔹 RESTful API with Spring Boot
-- 🔹 Store prompt & response in PostgreSQL
-- 🔹 DTO-based clean architecture
-- 🔹 Global Exception Handling
-- 🔹 Logging using SLF4J
-- 🔹 Swagger UI for API testing
-- 🔹 Clean layered structure (Controller → Service → Repository)
+🔹 AI Chat API using OpenRouter (GPT models)
+
+🔹 RESTful API with Spring Boot
+
+🔹 Store prompt & response in PostgreSQL
+
+🔹 DTO-based clean architecture
+
+🔹 Global Exception Handling
+
+🔹 Logging using SLF4J
+
+🔹 Swagger UI for API testing
+
+🔹 Clean layered structure (Controller → Service → Repository)
 
 ---
 

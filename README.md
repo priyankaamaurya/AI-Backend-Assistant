@@ -1,10 +1,10 @@
-# 🤖 AI Backend Assistant API
+# AI Backend Assistant API
 
 A production-ready **Spring Boot backend** that integrates with AI APIs (OpenRouter) to generate intelligent responses and store chat history using PostgreSQL.
 
 ---
 
-## 🚀 Features
+## Features
 
 🔹 AI Chat API using OpenRouter (GPT models)
 
@@ -24,7 +24,7 @@ A production-ready **Spring Boot backend** that integrates with AI APIs (OpenRou
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend:** Spring Boot, WebClient
 - **Database:** PostgreSQL
@@ -35,7 +35,7 @@ A production-ready **Spring Boot backend** that integrates with AI APIs (OpenRou
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 com.priyanka.aibackend
@@ -51,7 +51,7 @@ com.priyanka.aibackend
 
 ---
 
-## ⚙️ API Endpoints
+## API Endpoints
 
 ### 🔹 Ask AI
 
@@ -76,13 +76,13 @@ GET /api/ai/history
 ```
 ---
 
-## 📊 Swagger UI
+## Swagger UI
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Create .env file:
 ```
@@ -90,13 +90,13 @@ openrouter.api.key=YOUR_API_KEY
 ```
 ---
 
-## ▶️ Run Project
+## Run Project
 ```
 ./mvnw spring-boot:run
 ```
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 🔹 User authentication (JWT)
 
 🔹 Rate limiting
@@ -107,6 +107,6 @@ openrouter.api.key=YOUR_API_KEY
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Priyanka Maurya
